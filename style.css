@@ -1,0 +1,54 @@
+body{
+    background-image: linear-gradient(rgb(0,255,0),rgb(255,255,255), rgb(0,255,0));
+    background-size: cover;
+}
+.container{
+    border:1px solid rgb(200, 199, 199);
+    border-radius:10px;
+}
+.container2{
+    height:500px;
+    background-color: none;
+    
+}
+.main-box{
+    
+}
+.msg{
+    float: right;
+    width: 200px;
+    border-radius:10px;
+}
+.message{
+    background-color: white;
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 20px;
+    border: 2px solid black;
+    width: 60%;
+}
+.right{
+    float: right;
+}
+.left{
+    float: left;
+}
+.msg2{
+    float: left;
+    width: 200px;
+    border-radius:10px;
+    clear: both;
+}
+#btn{
+    width: 100px;
+    border-radius: 20px;
+    background-color: green;
+    color: azure;
+    height: 50px;
+}
+img{
+    border-radius: 1000px;
+}
+.header{
+    margin-left: 560px;
+}
